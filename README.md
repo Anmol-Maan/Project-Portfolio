@@ -40,6 +40,11 @@ I know, I know - I should’ve made separate repositories for each project… bu
   Created an interactive Power BI dashboard analyzing sales, profit trends, and product performance for a retail dataset.  
 
 
+- ### **Mapping Toronto’s Crime Data**  
+  ![Tableau](https://img.shields.io/badge/Tableau-%23FFFFFF?logo=Tableau&logoColor=1C4481) <br>
+  Created an interactive Tableau visualization breaking down crime trends across Toronto using three years of police-reported data.  
+
+
 - ### **Supply Chain Report**  
   ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black) <br>
   Built a Power BI report to analyze revenue, defect rates, supplier performance, and logistics efficiency for supply chain optimization.  
